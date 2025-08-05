@@ -57,3 +57,7 @@
 ---
 
 📌 *Este perfil está sempre evoluindo, assim como meu código.*
+
+---
+
+![Devvime GitHub stats](https://github-readme-stats.versel.app/api?username=devvime&show_icons=true&theme=dracula)
