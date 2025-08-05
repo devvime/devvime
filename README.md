@@ -60,4 +60,4 @@
 
 ---
 
-![Devvime GitHub stats](https://github-readme-stats.vercel.app/api?username=devvime&show_icons=true&theme=dracula)
+![Victor A. Mendes's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvime&show_icons=true&theme=radical)
