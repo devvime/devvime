@@ -58,6 +58,23 @@
 
 📌 *Este perfil está sempre evoluindo, assim como meu código.*
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![DDD](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-blue?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-Practice-00bfff?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-ff6600?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest%20PHP-FF4785?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvime&layout=compact&theme=dracula)
+
 ---
 
-![Victor A. Mendes's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvime&show_icons=true&theme=radical)
+![Victor A. Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=devvime&show_icons=true&theme=dracula)
