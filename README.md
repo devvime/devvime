@@ -74,6 +74,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvime&layout=compact&theme=dracula)
-![Victor A. Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=devvime&show_icons=true&theme=dracula&hide_rank=true&hide=contribs)
 
-<style>img { height: 170px; }</style>
+![Victor A. Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=devvime&show_icons=true&theme=dracula&hide_rank=true&hide=contribs)
