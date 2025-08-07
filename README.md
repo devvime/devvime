@@ -18,11 +18,15 @@ PHP · TypeScript · JavaScript · Python
 ---
 
 ### ⚙️ Back-end
-Node.js · Laravel · Express · APIs REST
+Node.js · Laravel · Symfony · Express · NestJS · Next.js · Composer · APIs REST
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 ---
 
@@ -38,7 +42,7 @@ Angular · React · Vue.js · HTML · SCSS
 ---
 
 ### 🎮 Desenvolvimento de Jogos
-Panda3D · Ursina · Babylon.js · Three.js · WebGL
+Python (Panda3D, Ursina) · UPBGE · Babylon.js · Three.js · WebGL
 
 ---
 
@@ -98,5 +102,5 @@ Docker · Git · GitHub Actions · CI/CD
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvime&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devvime&layout=compact&theme=dracula)  
 ![Victor A. Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=devvime&show_icons=true&theme=dracula&hide_rank=true&hide=contribs)
