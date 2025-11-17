@@ -8,17 +8,19 @@
 ## 🚀 Technologies & Specialties
 
 ### 🧠 Programming Languages  
-PHP · TypeScript · JavaScript · Python
+**PHP · TypeScript · JavaScript · Python · C# · .NET**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
 ### ⚙️ Back-end  
-Node.js · Laravel · Symfony · Express · NestJS · Next.js · Composer · REST APIs
+**Node.js · Laravel · Symfony · Express · NestJS · Next.js · Composer · REST APIs · FastAPI · .NET**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -27,11 +29,12 @@ Node.js · Laravel · Symfony · Express · NestJS · Next.js · Composer · RES
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
 ### 💻 Front-end  
-Angular · React · Vue.js · HTML · SCSS
+**Angular · React · Vue.js · HTML · SCSS**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -42,12 +45,12 @@ Angular · React · Vue.js · HTML · SCSS
 ---
 
 ### 🎮 Game Development  
-Python (Panda3D, Ursina) · UPBGE · Babylon.js · Three.js · WebGL
+**Python (Panda3D, Ursina) · UPBGE · Babylon.js · Three.js · WebGL**
 
 ---
 
 ### 🧱 Architecture & Best Practices  
-DDD · Clean Code · Clean Architecture · SOLID · API Security · JWT Authentication · Bot Protection
+**DDD · Clean Code · Clean Architecture · SOLID · API Security · JWT Authentication · Bot Protection**
 
 ![DDD](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-blue?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-Practice-00bfff?style=for-the-badge)
@@ -56,12 +59,12 @@ DDD · Clean Code · Clean Architecture · SOLID · API Security · JWT Authenti
 ---
 
 ### 📦 Databases & ORM  
-MySQL · PostgreSQL · MongoDB · Prisma
+**MySQL · PostgreSQL · MongoDB · Prisma**
 
 ---
 
 ### 🧪 Automated Testing  
-Jest · Pest PHP · Unit and Integration Testing
+**Jest · Pest PHP · Unit and Integration Testing**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest%20PHP-FF4785?style=for-the-badge&logo=php&logoColor=white)
