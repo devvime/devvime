@@ -65,13 +65,16 @@ Jest · Pest PHP · Unit and Integration Testing
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest%20PHP-FF4785?style=for-the-badge&logo=php&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-34577C?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
 
-### 🧰 DevOps & Tools  
-Docker · Git · GitHub Actions · CI/CD
+### 🧰 DevOps & Tools
+
+**Docker · Kubernetes · Git · GitHub Actions · CI/CD**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
