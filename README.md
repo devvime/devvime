@@ -19,7 +19,7 @@
 ---
 
 ### ⚙️ Back-end  
-**Node.js · Laravel · Symfony · Express · NestJS · Next.js · Composer · REST APIs · FastAPI · .NET**
+**Node.js · Laravel · Symfony · Express · NestJS · Next.js · Composer · FastAPI · .NET · REST APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
